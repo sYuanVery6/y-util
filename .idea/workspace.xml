@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5ec7b40-cbc0-4165-aba9-5326beb6b758" name="Changes" comment="" />
+    <list default="true" id="a5ec7b40-cbc0-4165-aba9-5326beb6b758" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ayuan/util/net/NetUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -30,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2al1EdMvejrn5HYYdreDOmSqmcy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,6 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -46,7 +53,7 @@
       <recent name="org.ayuan.util" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NetUtil">
     <configuration name="FileUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ayuan.util.file.FileUtils" />
       <module name="y-util" />
@@ -60,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NetUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ayuan.util.net.NetUtil" />
+      <module name="y-util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ayuan.util.net.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NetUtil" />
         <item itemvalue="Application.FileUtils" />
       </list>
     </recent_temporary>
@@ -77,10 +98,23 @@
       <workItem from="1704878243622" duration="1666000" />
       <workItem from="1705041703351" duration="815000" />
       <workItem from="1705050461900" duration="7000" />
+      <workItem from="1705052474858" duration="316000" />
+      <workItem from="1705280854406" duration="3118000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
